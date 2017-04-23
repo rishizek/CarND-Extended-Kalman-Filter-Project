@@ -22,3 +22,10 @@ xcuserdata/
 *.xcscmblueprint
 ide_profiles/xcode/Debug/
 ide_profiles/xcode/ExtendedKF.build/
+ide_profiles/xcode/CMake*
+ide_profiles/xcode/ExtendedKF.xcodeproj
+ide_profiles/xcode/cmake_install.cmake
+
+# outputs
+data/output_*
+
